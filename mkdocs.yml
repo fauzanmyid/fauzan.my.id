@@ -1,0 +1,6 @@
+site_name: Katalog Fauzan My ID
+nav:
+    - Home: index.md
+    - Zeeida:
+       - Aroma Terapi: zeeida/zeeida-aroma-terapi.md
+theme: readthedocs
