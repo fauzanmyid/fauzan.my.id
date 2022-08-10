@@ -2,9 +2,9 @@
 
 ## Varian
 
-- Grean Tea
 - Jeruk Nipis
 - Cengkeh
+- Grean Tea
 
 ## Harga
 
@@ -40,3 +40,7 @@ Dan extra : cengkeh, jeruk nipis, greentea
 ![Aroma Terapi Roll On Zeeida - Jeruk Nipis](img/zeeida-aroma-terapi-jeruk.jpeg)
 
 ![Testimoni Aroma Terapi Roll On Zeeida - Jeruk Nipis](img/zeeida-aroma-terapi-jeruk-testimoni.jpeg)
+
+![Aroma Terapi Roll On Zeeida - Cengkeh](img/zeeida-aroma-terapi-cengkeh.jpeg)
+
+![Testimoni Aroma Terapi Roll On Zeeida - Cengkeh](img/zeeida-aroma-terapi-cengkeh-testimoni.jpeg)
