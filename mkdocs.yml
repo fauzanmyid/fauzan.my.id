@@ -3,4 +3,6 @@ nav:
     - Home: index.md
     - Zeeida:
        - Aroma Terapi: zeeida/zeeida-aroma-terapi.md
+       - Minyak Telon: zeeida/zeeida-minyak-telon.md
+
 theme: readthedocs
