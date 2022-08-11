@@ -1,14 +1,13 @@
 # Aroma Terapi Roll On Zeeida
 
-## Varian
+## Varian & Harga
 
 - Jeruk Nipis
+     - Rp. 20.000,-
 - Cengkeh
+    - Rp. 20.000,-
 - Green Tea
-
-## Harga
-
-- Rp. 20.000,-
+    - Rp. 20.000,-
 
 ## Keterangan
 

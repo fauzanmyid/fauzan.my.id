@@ -1,15 +1,16 @@
 # Minyak Telon Bidara Ruqyah
 
-## Varian
+## Varian & Harga
 
-- Lavender
-- Sereh
+- Lavender  
+    - 30 ml - Rp. 25.000,-
+    - 60 ml - Rp. 37.000,-
+    - 100 ml - Rp. 57.000,-
 
-## Harga
-
-- 30 ml - Rp. 25.000,-
-- 60 ml - Rp. 37.000,-
-- 100 ml - Rp. 57.000,-
+- Sereh  
+    - 30 ml - Rp. 25.000,-
+    - 60 ml - Rp. 37.000,-
+    - 100 ml - Rp. 57.000,-
 
 ## Keterangan
 
